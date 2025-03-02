@@ -11,3 +11,26 @@ name = "Muhammad"
 message = 'Hello, how are you?'
 
 print(name, message)
+
+
+# Format Strings
+
+Name = """ Muhammad 
+     
+     Zuhair Zeb """
+
+print(Name)
+
+# Length of String
+
+Name = "Muhammad Zuhair Zeb"
+print(len(Name))
+
+# String Characters
+name = "Muhammad Zuhair Zeb"
+print(name[12])
+
+
+# Slicing
+name = "Muhammad Zuhair Zeb"
+print(name[0:5])
